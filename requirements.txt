@@ -5,6 +5,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-sklearn
 nltk
 sastrawi
